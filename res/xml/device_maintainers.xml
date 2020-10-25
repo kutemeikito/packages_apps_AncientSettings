@@ -97,7 +97,7 @@
             android:title="@string/device_ginkgo" >
             <intent
                 android:action="android.intent.action.VIEW"
-                android:data="https://t.me/Introdructor" />
+                android:data="https://t.me/MWG_Ryzen" />
           </Preference>
 
           <Preference

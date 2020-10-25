@@ -58,7 +58,7 @@
     <string name="device_ysl_summary" translatable="false">ysl\nHatsune -</string>
 
     <string name="device_ginkgo" translatable="false">Xiaomi Redmi Note 8</string>
-    <string name="device_ginkgo_summary" translatable="false">ginkgo\nIntrodructor </string>
+    <string name="device_ginkgo_summary" translatable="false">ginkgo\nRyzen </string>
 
     <string name="device_miatoll" translatable="false">Xiaomi SD720G</string> 
     <string name="device_miatoll_summary" translatable="false">miatoll\nHaSSaN (@HaSSaN_MOHl)</string>
